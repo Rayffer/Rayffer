@@ -6,6 +6,8 @@ I am Rayffer, a developer with almost a decade of experience in the field of C# 
 
 A custom tool to run TTRPG games easing most of the management tasks that make the DM life hard, based on the 5e SRD.
 
+A WPF client consuming the SpaceTraders.io api to interact and automate stuff.
+
 I am also working on contributing to the tools I consume on this project like [ScottPlot](https://github.com/ScottPlot/ScottPlot) as well as a variety of side projects aimed at easing my work and keeping up to date.
 
 ## Currently learning
