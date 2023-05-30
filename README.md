@@ -15,5 +15,3 @@ Web development technologies, since it's a field I've recently started working o
 ## Profiles
 * [StackOverflow](https://stackoverflow.com/users/5571775/oscar-guillamon)
 * [LinkedIn](https://es.linkedin.com/in/oscar-guillamon-rojo-a7930a65)
-
-![Github Status](https://github-readme-stats.vercel.app/api?username=Rayffer&theme=chartreuse&show_icons=true&count_private=true&include_all_commits=true&custom_title=)
